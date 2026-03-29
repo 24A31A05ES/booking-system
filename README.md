@@ -81,6 +81,7 @@ all while running locally without requiring a backend.
 ---
 
 ## Project Structure
+```
 fsd/
 ├─ index.html
 ├─ login.html
@@ -100,7 +101,7 @@ fsd/
 ├─ home.js
 ├─ booking.js
 └─ payment.js
-
+```
 
 
 ## Installation / Setup
