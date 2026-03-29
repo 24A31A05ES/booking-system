@@ -149,3 +149,6 @@ npx serve .
 - **D.Krishna Mahesh**: https://www.linkedin.com/in/sridhar-mutyala
 
 Updated by Jaya Lakshmi
+Updated by Kesava Datta
+Updated by Naga Venkata Sridhara
+Updated by Krishna Mahesh
